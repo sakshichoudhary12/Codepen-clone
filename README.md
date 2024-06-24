@@ -1,3 +1,7 @@
+# Image
+![template](https://github.com/sakshichoudhary12/Codepen-clone/assets/137709066/4fbdf5d4-ee86-41f6-88a5-f9d1455c420c)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
