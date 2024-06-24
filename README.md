@@ -1,5 +1,6 @@
 # Image
 ![template](https://github.com/sakshichoudhary12/Codepen-clone/assets/137709066/4fbdf5d4-ee86-41f6-88a5-f9d1455c420c)
+# Sample Code
 ![program](https://github.com/sakshichoudhary12/Codepen-clone/assets/137709066/b4e7473c-7236-492c-a807-cca00fa8224d)
 
 # Getting Started with Create React App
